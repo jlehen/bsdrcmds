@@ -1,0 +1,1 @@
+MANDIR= ${PREFIX}/man/man
