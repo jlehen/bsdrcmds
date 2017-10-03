@@ -2,10 +2,7 @@ SUBDIR=	rcp \
 	rlogin \
 	rlogind \
 	rsh \
-	rshd \
-	ruptime \
-	rwho \
-	rwhod
+	rshd
 
 SUBDIR_ORDERED=
 
